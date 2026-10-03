@@ -91,7 +91,7 @@ Key design choices:
 | Final Training Accuracy | 98.90% |
 | Final Validation Accuracy | 96.70% |
 | Max Train/Val Gap | less than 3% |
-| Test Accuracy | 100% (thesis) / 98% (paper) |
+| Test Accuracy | 98% |
 | Training Time | 5.57 h (Kaggle P100) |
 | Model Size | 117 MB |
 
