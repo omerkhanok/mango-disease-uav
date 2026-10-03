@@ -1,0 +1,13 @@
+torch>=2.0
+torchvision
+timm>=0.9
+torchmetrics
+Pillow
+matplotlib
+seaborn
+numpy
+pandas
+opencv-python
+tqdm
+scikit-learn
+pydrive2

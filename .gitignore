@@ -1,0 +1,33 @@
+# ── Large raw data (kept external / on Google Drive) ──
+data/raw_videos/
+data/raw_images/
+
+# ── Model files — NEVER upload ──
+*.pth
+*.pt
+*.h5
+*.onnx
+*.ckpt
+*.safetensors
+models/
+checkpoints/
+lightning_logs/
+
+# ── Training outputs ──
+logs/
+*.log
+
+# ── Python ──
+__pycache__/
+*.pyc
+*.pyo
+.ipynb_checkpoints/
+venv/
+.env
+
+# ── OS ──
+.DS_Store
+Thumbs.db
+
+# ── Kaggle ──
+/kaggle/
