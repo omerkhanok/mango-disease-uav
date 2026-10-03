@@ -46,7 +46,7 @@ An integrated system combining:
 ## Results
 
 - Validation accuracy: 97.09%
-- Test accuracy: 100% (thesis) / 98% (paper)
+- Test accuracy: 98%
 - Train/val gap: less than 3% across all 60 epochs
 - Training time: 5.57 h on Kaggle P100 GPU
 - Model size: 117 MB
