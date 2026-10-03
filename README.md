@@ -101,6 +101,12 @@ Key design choices:
   <img src="results/plots/cyclegan_losses.png" width="80%" alt="CycleGAN losses"/>
 </p>
 
+### Training Curves
+
+<p align="center">
+  <img src="results/plots/training_curves.png" width="80%" alt="Training curves"/>
+</p>
+
 ### Real vs Synthetic Domain Adaptation
 
 <p align="center">
